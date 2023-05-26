@@ -1,4 +1,4 @@
-![](ui_snapshot.jpg)
+![](ui_snapshot.png)
 
 In this data science and machine learning project, we classify Football Players. We restrict classification to only 5 people,
 1) Cristiano Ronaldo
@@ -22,6 +22,6 @@ Technologies used in this project,
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
-
 Done by watching this videos : https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+
 credit : https://github.com/codebasics
